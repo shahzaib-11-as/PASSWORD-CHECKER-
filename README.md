@@ -25,10 +25,17 @@ The system analyzes passwords based on multiple security factors, including **pa
 
 * **Python**
 * `getpass`
-* `re`
 * `string`
 * `pathlib`
 * `colorama`
+
+## Run the project
+
+python --version
+pip --version
+cd C:\Users\SD\Desktop\Password-Security-Checker
+pip install colorama
+python password_checker.py
 
 ## Purpose
 
